@@ -4,9 +4,22 @@ A mobile web app that shows every crag on [sportclimbs.uk](https://www.sportclim
 Tap a crag for a summary (route count, grade spread, sectors) with links to the full topo pages on sportclimbs.uk
 and directions to the parking.
 
+**Open the app: https://gillesrg.github.io/sport-climbs-map/**
+
 ## Using it on an iPhone
 
-Open the site in Safari, tap **Share → Add to Home Screen**. It then opens full screen like an app.
+Open https://gillesrg.github.io/sport-climbs-map/ in Safari, tap **Share → Add to Home Screen**. It then opens full screen like an app.
+
+## Updating the live site
+
+The site is hosted on GitHub Pages from the `main` branch of https://github.com/gillesrg/sport-climbs-map.
+Any change you commit and push goes live about a minute later:
+
+```bash
+git add -A && git commit -m "Describe the change" && git push
+```
+
+If you change `app.js` or `style.css`, bump the `?v=` number on their links in `index.html` so phones load the new version.
 
 ## Files
 
