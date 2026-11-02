@@ -1,5 +1,5 @@
 // Network-first for app files and crag data so updates show up; falls back to cache offline.
-const CACHE = "sportclimbs-v3";
+const CACHE = "sportclimbs-v4";
 const APP = ["./", "index.html", "style.css", "app.js", "data/crags.json", "manifest.webmanifest", "icons/icon-192.png"];
 
 self.addEventListener("install", e => {

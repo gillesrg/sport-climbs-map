@@ -117,7 +117,13 @@ function openSheet(c, { fly = false } = {}) {
   sheet.scrollTop = 0;
   document.body.classList.add("sheet-open");
   document.body.style.setProperty("--sheet-h", sheet.offsetHeight + "px");
-  if (fly && c.lat != null) map.flyTo([c.lat, c.lng], Math.max(map.getZoom(), 14), { duration: .6 });
+  if (c.lat != null) {
+    // Keep the crag visible above the sheet on phones (the sheet sits beside the map on wide screens).
+    const zoom = fly ? Math.max(map.getZoom(), 14) : map.getZoom();
+    const offsetY = innerWidth < 720 ? sheet.offsetHeight / 2 : 0;
+    const target = map.unproject(map.project([c.lat, c.lng], zoom).add([0, offsetY]), zoom);
+    fly ? map.flyTo(target, zoom, { duration: .6 }) : map.panTo(target);
+  }
   history.replaceState(null, "", "#" + encodeURIComponent(c.id));
 }
 
