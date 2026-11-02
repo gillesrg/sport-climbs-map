@@ -1,5 +1,5 @@
 // Network-first for app files and crag data so updates show up; falls back to cache offline.
-const CACHE = "sportclimbs-v1";
+const CACHE = "sportclimbs-v3";
 const APP = ["./", "index.html", "style.css", "app.js", "data/crags.json", "manifest.webmanifest", "icons/icon-192.png"];
 
 self.addEventListener("install", e => {
@@ -16,7 +16,7 @@ self.addEventListener("fetch", e => {
   const isLib = url.hostname === "cdnjs.cloudflare.com";
   if (!sameOrigin && !isLib) return; // map tiles go straight to the network
   e.respondWith(
-    fetch(e.request).then(res => {
+    fetch(e.request, { cache: "no-cache" }).then(res => {
       const copy = res.clone();
       caches.open(CACHE).then(c => c.put(e.request, copy));
       return res;
