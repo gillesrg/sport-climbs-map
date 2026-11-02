@@ -35,7 +35,13 @@ let layerName = store.get("layer", "Map");
 if (!LAYERS[layerName]) layerName = "Map";
 LAYERS[layerName].addTo(map);
 
-const cluster = L.markerClusterGroup({ maxClusterRadius: 40, showCoverageOnHover: false, spiderfyOnMaxZoom: true });
+const cluster = L.markerClusterGroup({
+  maxClusterRadius: 40, showCoverageOnHover: false, spiderfyOnMaxZoom: true,
+  iconCreateFunction: cl => {
+    const n = cl.getChildCount(), size = n < 10 ? 34 : n < 40 ? 40 : 48;
+    return L.divIcon({ className: "", iconSize: [size, size], html: `<div class="cluster" style="width:${size}px;height:${size}px">${n}</div>` });
+  },
+});
 map.addLayer(cluster);
 
 // ---- State ----

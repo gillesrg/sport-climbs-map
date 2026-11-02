@@ -133,9 +133,10 @@ body.sheet-open .fabs { bottom: calc(var(--sheet-h, 0px) + 12px); }
 }
 .crag-pin span { transform: rotate(45deg); color: #fff; font: 700 10px/1 sans-serif; }
 .crag-pin.approx { border-style: dashed; }
-.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large { background: rgba(31, 111, 92, .25); }
-.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
-  background: var(--accent); color: var(--accent-text); font-weight: 700;
+.cluster {
+  display: grid; place-items: center; border-radius: 50%;
+  background: var(--accent); color: var(--accent-text); font: 700 14px/1 sans-serif;
+  border: 3px solid rgba(255, 255, 255, .85); box-shadow: 0 0 0 5px rgba(31, 111, 92, .25), 0 1px 4px rgba(0, 0, 0, .35);
 }
 .me-dot {
   width: 18px; height: 18px; border-radius: 50%; background: #2b7cff;
