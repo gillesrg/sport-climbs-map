@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>Sport Climbs Map</title>
+  <meta name="description" content="Interactive map of the sport crags on sportclimbs.uk">
+  <meta name="theme-color" content="#1f6f5c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Sport Climbs">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map" aria-label="Map of crags"></div>
+
+  <header class="topbar">
+    <div class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4a6 6 0 1 0 3.7 10.7l4.8 4.8 1.4-1.4-4.8-4.8A6 6 0 0 0 10 4zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>
+      <input id="q" type="search" placeholder="Search crags" autocomplete="off" enterkeyhint="search">
+      <button id="filterBtn" class="icon-btn" aria-label="Filters" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v2H3zm4 6h10v2H7zm3 6h4v2h-4z"/></svg>
+        <span id="filterDot" class="dot" hidden></span>
+      </button>
+    </div>
+    <ul id="results" class="results" hidden></ul>
+    <div id="filters" class="filters" hidden>
+      <div class="chips" id="regionChips"></div>
+      <div class="grade-row">
+        <label>Grades with routes from
+          <select id="gMin"></select>
+        </label>
+        <label>to
+          <select id="gMax"></select>
+        </label>
+      </div>
+      <p class="count" id="count"></p>
+    </div>
+  </header>
+
+  <div class="fabs">
+    <button id="layerBtn" class="fab" aria-label="Change map style">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 2 8l10 5 10-5-10-5zm-7.7 9L2 13.2 12 18l10-4.8-2.3-1.2L12 15.8 4.3 12z"/></svg>
+    </button>
+    <button id="locateBtn" class="fab" aria-label="Show my location">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8zm9 3h-2.1A7 7 0 0 0 13 5.1V3h-2v2.1A7 7 0 0 0 5.1 11H3v2h2.1a7 7 0 0 0 5.9 5.9V21h2v-2.1a7 7 0 0 0 5.9-5.9H21v-2zm-9 6a5 5 0 1 1 0-10 5 5 0 0 1 0 10z"/></svg>
+    </button>
+  </div>
+
+  <section id="sheet" class="sheet" aria-live="polite" hidden>
+    <div class="grab" id="grab"></div>
+    <button class="close" id="closeSheet" aria-label="Close">×</button>
+    <div id="sheetBody"></div>
+  </section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

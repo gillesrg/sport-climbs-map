@@ -1,0 +1,1406 @@
+{
+ "/north-wales/border-region/clwyd-limestone/compact-wall/": {
+  "name": "Compact Wall",
+  "lat": 52.9829,
+  "lng": -3.149,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "crag:Compact Wall"
+ },
+ "/north-wales/border-region/clwyd-limestone/craig-arthur/": {
+  "name": "Craig Arthur",
+  "lat": 53.01472,
+  "lng": -3.1592,
+  "confidence": "exact",
+  "parking": [
+   53.0277,
+   -3.146
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/craig_arthur-423",
+  "source": "sectors:La Chacal Area/Digitron Area/Survival of the Fastest Area/Nemesis Wall"
+ },
+ "/north-wales/border-region/clwyd-limestone/dinbren/": {
+  "name": "Dinbren",
+  "lat": 52.9927,
+  "lng": -3.1632,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dinbren_crags-426",
+  "source": "sectors:Ice Walls/Dynah Walls/Harmony Walls/Hydrogen Area"
+ },
+ "/north-wales/border-region/clwyd-limestone/dm-walls-topo/": {
+  "name": "DM Walls",
+  "lat": 52.9811,
+  "lng": -3.1439,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "page:"
+ },
+ "/north-wales/border-region/clwyd-limestone/fudd-walls/": {
+  "name": "Fudd Walls",
+  "lat": 52.984,
+  "lng": -3.1507,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "crag:The Fudd, Dog and Furry Walls"
+ },
+ "/north-wales/border-region/clwyd-limestone/impact-walls/": {
+  "name": "Impact Walls",
+  "lat": 52.982,
+  "lng": -3.1475,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "crag:Impact Wall"
+ },
+ "/north-wales/border-region/clwyd-limestone/independence-quarry/": {
+  "name": "Independence Quarry",
+  "lat": 52.9773,
+  "lng": -3.1334,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/independence_quarry-2478",
+  "source": "page:"
+ },
+ "/north-wales/border-region/clwyd-limestone/monks-buttress/": {
+  "name": "Monk's Buttress",
+  "lat": 52.9988,
+  "lng": -3.1626,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/monks_buttress-1717",
+  "source": "sectors:Sir Cathcart Area"
+ },
+ "/north-wales/border-region/clwyd-limestone/monkshead-buttress/": {
+  "name": "Monkshead Buttress",
+  "lat": 52.9998,
+  "lng": -3.1612,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pinfold_area-425",
+  "source": "crag:Monkshead Buttress"
+ },
+ "/north-wales/border-region/clwyd-limestone/over-er-walls-topo/": {
+  "name": "Over Yr Walls",
+  "lat": 52.9852,
+  "lng": -3.1524,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "crag:Over Yr Wall"
+ },
+ "/north-wales/border-region/clwyd-limestone/pinfold-north/": {
+  "name": "Pinfold North",
+  "lat": 53.00365,
+  "lng": -3.16285,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pinfold_area-425",
+  "source": "sectors:Mental Transition Area/Sentinel Area"
+ },
+ "/north-wales/border-region/clwyd-limestone/pinfold-south/": {
+  "name": "Pinfold South",
+  "lat": 53.0007,
+  "lng": -3.1619,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pinfold_area-425",
+  "source": "manual:Solo in Soho Area/The Quick Tick Wall"
+ },
+ "/north-wales/border-region/clwyd-limestone/suspect-walls/": {
+  "name": "Suspect Walls",
+  "lat": 52.9815,
+  "lng": -3.1453,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "crag:Suspect Wall"
+ },
+ "/north-wales/border-region/clwyd-limestone/trevor-rocks-quarry/": {
+  "name": "Trevor Rocks Quarry",
+  "lat": 52.9811,
+  "lng": -3.1439,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/trevor_quarry-427",
+  "source": "page:"
+ },
+ "/north-wales/border-region/clwyd-limestone/twilight-buttresses/": {
+  "name": "Twilight Buttresses",
+  "lat": 53.0075,
+  "lng": -3.15965,
+  "confidence": "exact",
+  "parking": [
+   53.0277,
+   -3.146
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/twilight_area-424",
+  "source": "sectors:Twilight Tower Buttress/Bitter Entry Area"
+ },
+ "/north-wales/border-region/clwyd-limestone/worlds-end/": {
+  "name": "World’s End",
+  "lat": 53.0225,
+  "lng": -3.1439,
+  "confidence": "exact",
+  "parking": [
+   53.0277,
+   -3.146
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/worlds_end-422",
+  "source": "sectors:Taerg Wall Area"
+ },
+ "/north-wales/border-region/devils-gorge/": {
+  "name": "Devil’s Gorge",
+  "lat": 53.1694,
+  "lng": -3.2133,
+  "confidence": "exact",
+  "parking": [
+   53.173,
+   -3.2094
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pantymwyn_devils_gorge-419",
+  "source": "page:"
+ },
+ "/north-wales/border-region/llanymynech/": {
+  "name": "Llanymynech",
+  "lat": 52.78927,
+  "lng": -3.08911,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/llanymynech_quarry-1070",
+  "source": "sectors:Nomad Wall/Grid Iron Wall/Red Wall/Bay Wall/Cul-De-Sac Quarry/Cream Wall/Foreigner Wall"
+ },
+ "/north-wales/border-region/pandy-quarry/": {
+  "name": "Pandy Quarry (Pen Y Fron)",
+  "lat": 53.1822,
+  "lng": -3.2073,
+  "confidence": "exact",
+  "parking": [
+   53.1827,
+   -3.2038
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pandy_quarry_pen_y_fron-26560",
+  "source": "page:"
+ },
+ "/north-wales/north-coast/noticeboard-crag/": {
+  "name": "Noticeboard Crag",
+  "lat": 53.2844,
+  "lng": -3.8461,
+  "confidence": "exact",
+  "parking": [
+   53.2826,
+   -3.8403
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/notice_board_crag-1011",
+  "source": "page:"
+ },
+ "/north-wales/north-coast/the-gallery/": {
+  "name": "The Gallery",
+  "lat": 53.2883,
+  "lng": -3.884,
+  "confidence": "exact",
+  "parking": [
+   53.2863,
+   -3.8717
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/the_gallery_conwy-10392",
+  "source": "page:"
+ },
+ "/north-wales/north-coast/tyddyn-hywel/": {
+  "name": "Tyddyn Hywel",
+  "lat": 52.9968,
+  "lng": -4.3882,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/tyddyn_hywel_quarry-24747",
+  "source": "page:"
+ },
+ "/peak/buxton/ashwood-dale-ravine/": {
+  "name": "Ashwood Dale Ravine",
+  "lat": 53.2514,
+  "lng": -1.8919,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/ashwood_dale_lovers_leap-1205",
+  "source": "page:"
+ },
+ "/peak/buxton/blackwell-halt/": {
+  "name": "Blackwell Halt",
+  "lat": 53.2509,
+  "lng": -1.8359,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/blackwell_halt-28821",
+  "source": "crag:Blackwell Halt"
+ },
+ "/peak/buxton/blatant-buttress/": {
+  "name": "Blatant Buttress",
+  "lat": 53.25,
+  "lng": -1.8381,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/blackwell_halt-28821",
+  "source": "crag:Blatant Buttress"
+ },
+ "/peak/buxton/bradwell-dale/": {
+  "name": "Bradwell Dale",
+  "lat": 53.3226,
+  "lng": -1.7419,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/bradwell_dale-9968",
+  "source": "sectors:Open-book Bay/The Ivy League"
+ },
+ "/peak/buxton/cowdale/": {
+  "name": "Cowdale",
+  "lat": 53.2456,
+  "lng": -1.8742,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/cow_dale_craig-y-biceps-959",
+  "source": "page:"
+ },
+ "/peak/buxton/deep-dale/": {
+  "name": "Deep Dale",
+  "lat": 53.23953,
+  "lng": -1.85267,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/deep_dale-976",
+  "source": "sectors:Badger Cove/Bear Wall/Secret Garden"
+ },
+ "/peak/buxton/devonshire-buttress/": {
+  "name": "Devonshire Buttress",
+  "lat": 53.2498,
+  "lng": -1.8805,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/beerhouse_buttress-1233",
+  "source": "page:"
+ },
+ "/peak/buxton/harpur-hill/": {
+  "name": "Harpur Hill",
+  "lat": 53.23197,
+  "lng": -1.90689,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/harpur_hill_quarry-956",
+  "source": "sectors:many"
+ },
+ "/peak/buxton/moss-rake/": {
+  "name": "Moss Rake",
+  "lat": 53.3203,
+  "lng": -1.7704,
+  "confidence": "exact",
+  "parking": [
+   53.3216,
+   -1.7606
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/moss_rake-26584",
+  "source": "sectors:The Library Slab"
+ },
+ "/peak/buxton/new-mills/": {
+  "name": "New Mills Torrs",
+  "lat": 53.3641,
+  "lng": -1.9992,
+  "confidence": "exact",
+  "parking": [
+   53.3658,
+   -2.0006
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/new_mills_torrs-149",
+  "source": "page:"
+ },
+ "/peak/buxton/pin-dale/": {
+  "name": "Pin Dale Quarry",
+  "lat": 53.3364,
+  "lng": -1.7644,
+  "confidence": "exact",
+  "parking": [
+   53.3343,
+   -1.7676
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pin_dale-22309",
+  "source": "page:"
+ },
+ "/peak/buxton/smalldale/": {
+  "name": "Smalldale",
+  "lat": 53.2902,
+  "lng": -1.85665,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/smalldale_quarry-998",
+  "source": "sectors:Crystal Wall/Going Straight Wall"
+ },
+ "/peak/buxton/staden-quarry/": {
+  "name": "Staden Quarry",
+  "lat": 53.2471,
+  "lng": -1.8823,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/staden_quarry-124",
+  "source": "page:"
+ },
+ "/peak/buxton/taddington/": {
+  "name": "Taddington",
+  "lat": 53.2331,
+  "lng": -1.751,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/taddington-980",
+  "source": "page:"
+ },
+ "/peak/cheedale/chee-tor/": {
+  "name": "Chee Tor",
+  "lat": 53.2569,
+  "lng": -1.8172,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_lower-10866",
+  "source": "crag:Chee Tor"
+ },
+ "/peak/cheedale/dogs-dinner-buttress/": {
+  "name": "Dog’s Dinner Buttress",
+  "lat": 53.2554,
+  "lng": -1.814,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_lower-10866",
+  "source": "crag:Dog's Dinner Buttress"
+ },
+ "/peak/cheedale/embankment/": {
+  "name": "The Embankment",
+  "lat": 53.2524,
+  "lng": -1.8203,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:The Embankment"
+ },
+ "/peak/cheedale/long-wall/": {
+  "name": "Long Wall",
+  "lat": 53.2515,
+  "lng": -1.8215,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Long Wall"
+ },
+ "/peak/cheedale/max-buttress/": {
+  "name": "Max Buttress",
+  "lat": 53.2527,
+  "lng": -1.8195,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Max Wall"
+ },
+ "/peak/cheedale/moving-buttress/": {
+  "name": "Moving Buttress",
+  "lat": 53.2514,
+  "lng": -1.8236,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Moving Buttress"
+ },
+ "/peak/cheedale/nettle-buttress/": {
+  "name": "Nettle Buttress",
+  "lat": 53.2536,
+  "lng": -1.8166,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Nettle Buttress"
+ },
+ "/peak/cheedale/plum-buttress/": {
+  "name": "Plum Buttress",
+  "lat": 53.2507,
+  "lng": -1.8284,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Plum Buttress"
+ },
+ "/peak/cheedale/rhubarb-buttress/": {
+  "name": "Rhubarb Buttress",
+  "lat": 53.2574,
+  "lng": -1.8176,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_lower-10866",
+  "source": "crag:Rhubarb Buttress"
+ },
+ "/peak/cheedale/runyons-corner/": {
+  "name": "Runyon’s Corner",
+  "lat": 53.251,
+  "lng": -1.8231,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Runyons Corner"
+ },
+ "/peak/cheedale/second-lift/": {
+  "name": "Second Lift",
+  "lat": 53.251,
+  "lng": -1.8271,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "manual:The Lifts"
+ },
+ "/peak/cheedale/the-cornice/": {
+  "name": "The Cheedale Cornice",
+  "lat": 53.2552,
+  "lng": -1.8167,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_lower-10866",
+  "source": "crag:The Cornice"
+ },
+ "/peak/cheedale/the-nook/": {
+  "name": "The Nook",
+  "lat": 53.2539,
+  "lng": -1.8166,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:The Nook"
+ },
+ "/peak/cheedale/the-sidings/": {
+  "name": "The Sidings",
+  "lat": 53.2524,
+  "lng": -1.8222,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:The Sidings"
+ },
+ "/peak/cheedale/third-lift/": {
+  "name": "The Third Lift",
+  "lat": 53.251,
+  "lng": -1.8271,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "manual:The Lifts"
+ },
+ "/peak/cheedale/two-tier/": {
+  "name": "Two Tier Buttress",
+  "lat": 53.25255,
+  "lng": -1.81865,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Two-tier Upper/Two Tier - Left"
+ },
+ "/peak/cheedale/ugly-wall/": {
+  "name": "Ugly Wall",
+  "lat": 53.2504,
+  "lng": -1.8303,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/chee_dale_upper-10865",
+  "source": "crag:Ugly Buttress"
+ },
+ "/peak/dovedale/dove-holes/": {
+  "name": "Dove Holes",
+  "lat": 53.0791,
+  "lng": -1.7886,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dovedale-962",
+  "source": "crag:Dove Holes"
+ },
+ "/peak/dovedale/ladyside-crag/": {
+  "name": "Ladyside Crag",
+  "lat": 53.0982,
+  "lng": -1.8557,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/manifold_valley-125",
+  "source": "crag:The Chimney"
+ },
+ "/peak/dovedale/ravens-tor/": {
+  "name": "Raven’s Tor",
+  "lat": 53.0821,
+  "lng": -1.7908,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dovedale-962",
+  "source": "crag:Raven's Tor"
+ },
+ "/peak/dovedale/reynards-arch/": {
+  "name": "Reynard's Arch",
+  "lat": 53.0696,
+  "lng": -1.7847,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dovedale-962",
+  "source": "crag:Reynards Arch"
+ },
+ "/peak/dovedale/tissington-spires/": {
+  "name": "Tissington Spires",
+  "lat": 53.079,
+  "lng": -1.7912,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dovedale-962",
+  "source": "page:"
+ },
+ "/peak/dovedale/wolfscote-dale/": {
+  "name": "Wolfscote Dale",
+  "lat": 53.1225,
+  "lng": -1.8048,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/wolfscote_dale_celestial_twins-1355",
+  "source": "page:"
+ },
+ "/peak/matlock/arm-lees-quarry/": {
+  "name": "Arm Lees Quarry",
+  "lat": 53.0942,
+  "lng": -1.6086,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/arm_lees_quarry-1258",
+  "source": "page:"
+ },
+ "/peak/matlock/bend-tor/": {
+  "name": "Bend Tor",
+  "lat": 53.1313,
+  "lng": -1.5573,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/bend_tor-996",
+  "source": "page:"
+ },
+ "/peak/matlock/blue-yonder/": {
+  "name": "Blue Yonder",
+  "lat": 53.0856,
+  "lng": -1.5828,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/blue_yonder-8949",
+  "source": "page:"
+ },
+ "/peak/matlock/caretaker-quarry/": {
+  "name": "Caretaker Quarry",
+  "lat": 53.09248,
+  "lng": -1.59838,
+  "confidence": "exact",
+  "parking": [
+   53.0983,
+   -1.5667
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/intake_quarry-1361",
+  "source": "sectors:Father Walls/Take Away Wall/Darkness Wall/Runnel Walls/Pipeline Buttress"
+ },
+ "/peak/matlock/cawdor-quarry/": {
+  "name": "Cawdor Quarry",
+  "lat": 53.1392,
+  "lng": -1.5694,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/cawdor_quarry-1364",
+  "source": "page:"
+ },
+ "/peak/matlock/coal-hills/": {
+  "name": "Coal Hills Quarry",
+  "lat": 53.0943,
+  "lng": -1.5759,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/the_national_stone_centre-30288",
+  "source": "crag:Coal Hills Quarry"
+ },
+ "/peak/matlock/colehill-quarry/": {
+  "name": "Colehill Quarry",
+  "lat": 53.0923,
+  "lng": -1.5715,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/the_national_stone_centre-30288",
+  "source": "crag:Colehill Quarry"
+ },
+ "/peak/matlock/dale-quarry/": {
+  "name": "Dale Quarry",
+  "lat": 53.0835,
+  "lng": -1.5764,
+  "confidence": "exact",
+  "parking": [
+   53.0823,
+   -1.5769
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dale_quarry_wirksworth-950",
+  "source": "page:"
+ },
+ "/peak/matlock/helicopter-quarry/": {
+  "name": "Helicopter Quarry",
+  "lat": 53.136,
+  "lng": -1.5667,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/halldale_quarry-1362",
+  "source": "sectors:TOKENISM WALLS/SPECTRE WALLS"
+ },
+ "/peak/matlock/high-tor/": {
+  "name": "High Tor Right Wing",
+  "lat": 53.12755,
+  "lng": -1.55785,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/high_tor_derbyshire-119",
+  "source": "crag:Left Wing/Right Wing"
+ },
+ "/peak/matlock/lime-kiln-quarry/": {
+  "name": "Lime Kiln Quarry",
+  "lat": 53.0853,
+  "lng": -1.573,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/lime_kiln_quarry_wirksworth-948",
+  "source": "page:"
+ },
+ "/peak/matlock/long-tor-quarry/": {
+  "name": "Long Tor Quarry",
+  "lat": 53.1249,
+  "lng": -1.56,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/long_tor_quarry-910",
+  "source": "page:"
+ },
+ "/peak/matlock/lorry-park-quarry/": {
+  "name": "Lorry Park Quarry",
+  "lat": 53.133,
+  "lng": -1.5587,
+  "confidence": "exact",
+  "parking": [
+   53.1316,
+   -1.5588
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/lorry_park_quarry-1169",
+  "source": "page:"
+ },
+ "/peak/matlock/masson-lees/": {
+  "name": "Masson Lees",
+  "lat": 53.12752,
+  "lng": -1.57136,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/masson_lees_quarry-2975",
+  "source": "sectors:Overhanging Wall/Black Wall/White Wall/Wake Up Wall/Red Wall"
+ },
+ "/peak/matlock/millpond/": {
+  "name": "Millpond",
+  "lat": 53.109,
+  "lng": -1.5637,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/millpond_buttress-29015",
+  "source": "page:"
+ },
+ "/peak/matlock/ne-shaw-quarries/": {
+  "name": "North East, Shaw & Fossil Wall",
+  "lat": 53.09315,
+  "lng": -1.57315,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/the_national_stone_centre-30288",
+  "source": "crag:North East Quarry/Shaw Quarry"
+ },
+ "/peak/matlock/slaley-brook/": {
+  "name": "Slaley Brook",
+  "lat": 53.1119,
+  "lng": -1.59023,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/slaley_brook-1232",
+  "source": "sectors:Monster Wall/Marble Wall/Morsels Wall"
+ },
+ "/peak/matlock/stoney-wood/": {
+  "name": "Stoney Wood",
+  "lat": 53.0856,
+  "lng": -1.5737,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/stoney_wood-19212",
+  "source": "page:"
+ },
+ "/peak/matlock/the-blue-lagoon/": {
+  "name": "The Blue Lagoon",
+  "lat": 53.0894,
+  "lng": -1.5795,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/blue_lagoon_quarry-3715",
+  "source": "page:"
+ },
+ "/peak/matlock/turkey-dip-rocks/": {
+  "name": "Turkey Dip Rocks",
+  "lat": 53.1523,
+  "lng": -1.603,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/turkey_dip_rocks-3990",
+  "source": "page:"
+ },
+ "/peak/millers-dale/ergonomic-buttress/": {
+  "name": "Ergonomic Buttress",
+  "lat": 53.2548,
+  "lng": -1.7754,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/ergonomic_buttress-24258",
+  "source": "page:"
+ },
+ "/peak/millers-dale/playstation-buttress/": {
+  "name": "Playstation Buttress",
+  "lat": 53.2566,
+  "lng": -1.7767,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/raven_tor_millers_dale-146",
+  "source": "crag:Playstation buttress"
+ },
+ "/peak/millers-dale/ravens-foot-buttress/": {
+  "name": "Raven’s Foot Buttress",
+  "lat": 53.2561,
+  "lng": -1.7781,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/ravens_foot_buttress-988",
+  "source": "page:"
+ },
+ "/peak/millers-dale/ravenstor/": {
+  "name": "Raven Tor",
+  "lat": 53.2563,
+  "lng": -1.776,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/raven_tor_millers_dale-146",
+  "source": "page:"
+ },
+ "/peak/millers-dale/tideswell-dale/": {
+  "name": "Tideswell Dale",
+  "lat": 53.2587,
+  "lng": -1.769,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/tideswell_dale-966",
+  "source": "page:"
+ },
+ "/peak/stoney/darlton-two/": {
+  "name": "Darlton 2",
+  "lat": 53.2772,
+  "lng": -1.6862,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/hidden_quarry_formerly_darlton_2-24483",
+  "source": "sectors:Chunky Buttress/Sandy Wall"
+ },
+ "/peak/stoney/darlton/": {
+  "name": "Darlton Quarry",
+  "lat": 53.2782,
+  "lng": -1.675,
+  "confidence": "exact",
+  "parking": [
+   53.279,
+   -1.6777
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/darlton_quarry-21989",
+  "source": "page:"
+ },
+ "/peak/stoney/deep-rake/": {
+  "name": "Deep Rake",
+  "lat": 53.2587,
+  "lng": -1.6577,
+  "confidence": "exact",
+  "parking": [
+   53.2573,
+   -1.6479
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/deep_rake-26423",
+  "source": "page:"
+ },
+ "/peak/stoney/goddards-quarry/": {
+  "name": "Goddard’s Quarry",
+  "lat": 53.276,
+  "lng": -1.6668,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/goddards_quarry-21261",
+  "source": "sectors:Plantation/Crustacean Wall/Sunshine Wall Top Tier"
+ },
+ "/peak/stoney/golden-wall/": {
+  "name": "Golden Wall",
+  "lat": 53.2799,
+  "lng": -1.6826,
+  "confidence": "exact",
+  "parking": [
+   53.279,
+   -1.6856
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/horsethief_quarry-23088",
+  "source": "crag:Golden Wall"
+ },
+ "/peak/stoney/horse-thief-wall/": {
+  "name": "Horse Thief Wall",
+  "lat": 53.2792,
+  "lng": -1.6848,
+  "confidence": "exact",
+  "parking": [
+   53.279,
+   -1.6856
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/horse-thief_quarry-23088",
+  "source": "page:"
+ },
+ "/peak/stoney/horseshoe-quarry/": {
+  "name": "Horseshoe Quarry",
+  "lat": 53.28148,
+  "lng": -1.6885,
+  "confidence": "exact",
+  "parking": [
+   53.2804,
+   -1.6907
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/horseshoe_quarry-148",
+  "source": "sectors:Heart Buttress/Androids Sector/Toilet Sector/Top Quarry"
+ },
+ "/peak/stoney/sitdown-buttress/": {
+  "name": "Sit Down Buttress",
+  "lat": 53.2785,
+  "lng": -1.6822,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/hidden_quarry_formerly_darlton_2-24483",
+  "source": "crag:Sit-down Buttress"
+ },
+ "/peak/stoney/stoney-middleton/": {
+  "name": "Stoney Middleton",
+  "lat": 53.2779,
+  "lng": -1.6656,
+  "confidence": "exact",
+  "parking": [
+   53.2763,
+   -1.659
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/stoney_middleton-138",
+  "source": "sectors:Garage Buttress/Windy Buttress"
+ },
+ "/peak/stoney/stoney-west/": {
+  "name": "Stoney West",
+  "lat": 53.28,
+  "lng": -1.679,
+  "confidence": "exact",
+  "parking": [
+   53.279,
+   -1.6777
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/stoney_west-954",
+  "source": "page:"
+ },
+ "/peak/stoney/the-balcony/": {
+  "name": "The Balcony",
+  "lat": 53.2773,
+  "lng": -1.6711,
+  "confidence": "exact",
+  "parking": [
+   53.279,
+   -1.6777
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/darlton_quarry-21989",
+  "source": "crag:The Balcony"
+ },
+ "/peak/water-cum-jolly/central-buttress/": {
+  "name": "Central Buttress",
+  "lat": 53.2536,
+  "lng": -1.7558,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:Central Buttress"
+ },
+ "/peak/water-cum-jolly/headstone-viaduct-buttress/": {
+  "name": "Headstone Viaduct Buttress",
+  "lat": 53.2396,
+  "lng": -1.7358,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/headstone_viaduct_crag-28200",
+  "source": "page:"
+ },
+ "/peak/water-cum-jolly/rubicon/": {
+  "name": "Rubicon Wall",
+  "lat": 53.2528,
+  "lng": -1.7453,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:Rubicon - Left"
+ },
+ "/peak/water-cum-jolly/the-cornice/": {
+  "name": "The Cornice",
+  "lat": 53.2522,
+  "lng": -1.753,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:The Cornice"
+ },
+ "/peak/water-cum-jolly/wcj-church/": {
+  "name": "Church Buttress",
+  "lat": 53.2512,
+  "lng": -1.7514,
+  "confidence": "approx",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "page:"
+ },
+ "/peak/water-cum-jolly/wcj-lammergeyer/": {
+  "name": "Lammergeyer Buttress",
+  "lat": 53.2514,
+  "lng": -1.7495,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:Lammergeyer Buttress"
+ },
+ "/peak/water-cum-jolly/wcj-majorca-buttress/": {
+  "name": "Majorca Buttress",
+  "lat": 53.2505,
+  "lng": -1.7492,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:Majorca Crunch Buttress"
+ },
+ "/peak/water-cum-jolly/wcj-moat-buttress/": {
+  "name": "Moat Buttress",
+  "lat": 53.2509,
+  "lng": -1.7482,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/watercumjolly-140",
+  "source": "crag:Moat Buttress (Left)"
+ },
+ "/peak/water-cum-jolly/wcj-swamp/": {
+  "name": "Swamp Wall",
+  "lat": 53.2517,
+  "lng": -1.7523,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:Swamp Wall"
+ },
+ "/peak/water-cum-jolly/wcj-two-tier-buttress/": {
+  "name": "Two Tier Buttress",
+  "lat": 53.2529,
+  "lng": -1.753,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/water-cum-jolly-140",
+  "source": "crag:Two Tier Buttress"
+ },
+ "/south-wales/ban-y-gor/": {
+  "name": "Ban-y-Gor",
+  "lat": 51.6689,
+  "lng": -2.6641,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/ban-y-gor-70",
+  "source": "page:"
+ },
+ "/south-wales/south-east-limestone/dinas-rock/": {
+  "name": "Dinas Rock",
+  "lat": 51.76007,
+  "lng": -3.57373,
+  "confidence": "exact",
+  "parking": [
+   51.7595,
+   -3.5786
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dinas_rock-1026",
+  "source": "sectors:Lower Cave Area/Roadside/Terrace Cliff"
+ },
+ "/south-wales/south-east-limestone/gilwern/": {
+  "name": "Gilwern",
+  "lat": 51.8069,
+  "lng": -3.1017,
+  "confidence": "exact",
+  "parking": [
+   51.8079,
+   -3.1098
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/gilwern-23167",
+  "source": "crag:Gilwern Lower - Gilwern West/Gilwern East: Left-Hand Sector"
+ },
+ "/south-wales/south-east-limestone/pant-quarry/": {
+  "name": "Pant Quarry",
+  "lat": 51.4711,
+  "lng": -3.5922,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pant_quarry-3257",
+  "source": "page:"
+ },
+ "/south-wales/south-east-limestone/taffs-well/": {
+  "name": "Taffs Well Quarry",
+  "lat": 51.5372,
+  "lng": -3.2586,
+  "confidence": "approx",
+  "parking": [
+   51.5425,
+   -3.2613
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/taffs_well-1023",
+  "source": "page:"
+ },
+ "/south-wales/south-east-limestone/witches-point/": {
+  "name": "Witches Point",
+  "lat": 51.44213,
+  "lng": -3.60617,
+  "confidence": "exact",
+  "parking": [
+   51.4461,
+   -3.6054
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/witches_point-1025",
+  "source": "sectors:Witches Cave/Stone Wings Cliff/Dunraven Cliff"
+ },
+ "/south-wales/south-east-sandstone/abbey-buttress/": {
+  "name": "Abbey Buttress",
+  "lat": 51.5844,
+  "lng": -3.763,
+  "confidence": "exact",
+  "parking": [
+   51.5854,
+   -3.7657
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/abbey_buttress-737",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/abertlysswg/": {
+  "name": "Abertwssyg",
+  "lat": 51.7424,
+  "lng": -3.258,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/abertysswg-17964",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/coed-ely/": {
+  "name": "Coed Ely",
+  "lat": 51.5617,
+  "lng": -3.4125,
+  "confidence": "exact",
+  "parking": [
+   51.5621,
+   -3.4152
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/coed_ely-1061",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/cwmaman/": {
+  "name": "Cwmaman",
+  "lat": 51.6842,
+  "lng": -3.4379,
+  "confidence": "exact",
+  "parking": [
+   51.683,
+   -3.4407
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/cwmaman-735",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/cwmcarn/": {
+  "name": "Cwmcarn",
+  "lat": 51.6394,
+  "lng": -3.1272,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/cwmcarn_quarry-1060",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/dyfryn/": {
+  "name": "Dyfryn",
+  "lat": 51.6855,
+  "lng": -3.841,
+  "confidence": "exact",
+  "parking": [
+   51.6837,
+   -3.828
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/dyffryn-8467",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/ferndale/": {
+  "name": "Ferndale",
+  "lat": 51.6618,
+  "lng": -3.4556,
+  "confidence": "exact",
+  "parking": [
+   51.6643,
+   -3.4524
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/ferndale-1044",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/golf-club-buttress/": {
+  "name": "Golf Club Crag",
+  "lat": 51.6103,
+  "lng": -3.3228,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/golf_club_crag-1238",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/lewistown/": {
+  "name": "Lewistown",
+  "lat": 51.5806,
+  "lng": -3.5514,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/lewistown-9224",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/llanbradach/": {
+  "name": "Llanbradach",
+  "lat": 51.59773,
+  "lng": -3.23457,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/llanbradach-731",
+  "source": "sectors:Luxury Wall/Expansionist Wall/Western Wall"
+ },
+ "/south-wales/south-east-sandstone/llandarcy/": {
+  "name": "Llandarcy",
+  "lat": 51.6441,
+  "lng": -3.8584,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/llandarcy-25116",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/mount-pleasant/": {
+  "name": "Mount Pleasant",
+  "lat": 51.6722,
+  "lng": -3.3265,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/mount_pleasant_x1-9201",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/mountain-ash/": {
+  "name": "Mountain Ash",
+  "lat": 51.6769,
+  "lng": -3.366,
+  "confidence": "exact",
+  "parking": [
+   51.6778,
+   -3.3678
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/mountain_ash-1045",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/sirhowy/": {
+  "name": "Sirhowy",
+  "lat": 51.6121,
+  "lng": -3.15,
+  "confidence": "exact",
+  "parking": [
+   51.6136,
+   -3.1519
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/sirhowy-1059",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/space-mountain/": {
+  "name": "Space Mountain",
+  "lat": 51.6789,
+  "lng": -3.5767,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/space_mountain-25002",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/the-darren/": {
+  "name": "The Darren",
+  "lat": 51.6115,
+  "lng": -3.3423,
+  "confidence": "exact",
+  "parking": [
+   51.6101,
+   -3.3461
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/the_darren-739",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/the-gap/": {
+  "name": "The Gap",
+  "lat": 51.6584,
+  "lng": -3.3307,
+  "confidence": "exact",
+  "parking": [
+   51.658,
+   -3.3303
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/the_gap_rhondda_cynon_taff-734",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/tirpentwys/": {
+  "name": "Tirpentwys",
+  "lat": 51.6936,
+  "lng": -3.09,
+  "confidence": "exact",
+  "parking": [
+   51.6965,
+   -3.0796
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/tirpentwys-8695",
+  "source": "page:"
+ },
+ "/south-wales/south-east-sandstone/tyle-y-coch/": {
+  "name": "Tyle-Y-Coch",
+  "lat": 51.6551,
+  "lng": -3.137,
+  "confidence": "exact",
+  "parking": [
+   51.6565,
+   -3.1372
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/tyle_y_coch-3258",
+  "source": "page:"
+ },
+ "/south-wales/the-gower/amroth/": {
+  "name": "Amroth",
+  "lat": 51.73443,
+  "lng": -4.6297,
+  "confidence": "exact",
+  "parking": [
+   51.7376,
+   -4.6358
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/telpyn_point-8705",
+  "source": "sectors:Fisherman's Wall/The Mollusk Wall/Tremors Wall/Cave Wall"
+ },
+ "/south-wales/the-gower/barlands-quarry/": {
+  "name": "Barlands Quarry",
+  "lat": 51.5864,
+  "lng": -4.0583,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/barland_quarry-2627",
+  "source": "page:"
+ },
+ "/south-wales/the-gower/boscos-den/": {
+  "name": "Bosco's Den",
+  "lat": 51.562,
+  "lng": -4.0782,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/boscos_gulch_area-3256",
+  "source": "page:"
+ },
+ "/south-wales/the-gower/foxhole/": {
+  "name": "Foxhole",
+  "lat": 51.5651,
+  "lng": -4.0922,
+  "confidence": "exact",
+  "parking": [
+   51.5667,
+   -4.088
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/foxhole-3255",
+  "source": "page:"
+ },
+ "/south-wales/the-gower/minchin-hole/": {
+  "name": "Minchin Hole",
+  "lat": 51.5619,
+  "lng": -4.0842,
+  "confidence": "exact",
+  "parking": [
+   51.5667,
+   -4.088
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/minchin_hole-3259",
+  "source": "page:"
+ },
+ "/south-wales/the-gower/morfa-buchan/": {
+  "name": "Morfa Buchan",
+  "lat": 51.7374,
+  "lng": -4.5677,
+  "confidence": "exact",
+  "parking": [
+   51.739,
+   -4.5715
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/morfa_bychan-10267",
+  "source": "sectors:The Dark Side"
+ },
+ "/south-wales/the-gower/oxwich/": {
+  "name": "Oxwich",
+  "lat": 51.5501,
+  "lng": -4.1533,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/oxwich_bay_quarry-2867",
+  "source": "sectors:In the Woods"
+ },
+ "/south-wales/the-gower/pwll-ddu-bay/": {
+  "name": "Pwll Ddu Bay",
+  "lat": 51.5617,
+  "lng": -4.0592,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/pwlldu_bay-1030",
+  "source": "page:"
+ },
+ "/south-wales/the-gower/ramsgrove/": {
+  "name": "Ramsgrove to 3rd Sister",
+  "lat": 51.5557,
+  "lng": -4.2652,
+  "confidence": "exact",
+  "parking": [
+   51.5659,
+   -4.2707
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/third_sister_to_zulu_zawn-881",
+  "source": "manual:Rams Grove/Saddam's Wall/Sisters"
+ },
+ "/south-wales/the-gower/rhossili/": {
+  "name": "Rhossili",
+  "lat": 51.56885,
+  "lng": -4.29555,
+  "confidence": "exact",
+  "parking": [
+   51.5691,
+   -4.289
+  ],
+  "ukc": "https://www.ukclimbing.com/logbook/crags/rhossili_beach-18361",
+  "source": "sectors:Black Wall/Shipwreck Cove - East Wall/Castaway Cove/Mermaid Wall"
+ },
+ "/south-wales/the-gower/watch-house-crag/": {
+  "name": "Watch House Crag",
+  "lat": 51.56565,
+  "lng": -4.0955,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/watch_house_crag-10143",
+  "source": "crag:Watch House Crag/Watch House East"
+ },
+ "/yorkshire/kilnsey/": {
+  "name": "Kilnsey",
+  "lat": 54.1106,
+  "lng": -2.0414,
+  "confidence": "exact",
+  "parking": null,
+  "ukc": "https://www.ukclimbing.com/logbook/crags/kilnsey-608",
+  "source": "page:"
+ }
+}
